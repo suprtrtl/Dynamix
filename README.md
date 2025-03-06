@@ -1,5 +1,5 @@
 # Dynamix
-A science and technology modpack about automating and making machines.
+A science and technology modpack about automating items, making machines and commiting pure destruction.
 
 ## Installation
 Currently there is no way to easily install Dynamix. It is possible to copy and paste the mods, configs and scripts into a minecraft instance.
