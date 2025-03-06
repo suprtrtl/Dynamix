@@ -1,0 +1,1 @@
+<recipetype:minecraft:blasting>.removeByName("electrodynamics:blasting/steel_ingot_from_iron_ingot");

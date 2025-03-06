@@ -1,0 +1,1 @@
+craftingTable.removeByName("destroy:crafting/stainless_steel_rods_from_ingot");

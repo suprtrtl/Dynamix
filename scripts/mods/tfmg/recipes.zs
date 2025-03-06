@@ -1,0 +1,1 @@
+<recipetype:create:sequenced_assembly>.removeByName("tfmg:sequenced_assembly/heavy_plate");

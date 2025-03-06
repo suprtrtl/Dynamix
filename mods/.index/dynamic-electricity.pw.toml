@@ -1,0 +1,16 @@
+filename = 'Dynamic Electricity-1.20.1-1.1.0-1.jar'
+name = 'Dynamic Electricity'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '14491a96a849d9123b7285c4874776df6494051fe84c376a49b611c2b68517efc475dbdb7a395fcfd0bbde0246b6bfb3c2ec87d043d63baed8fa1c7cc1ec80f7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/gYqTAyBw/versions/vISc8d9D/Dynamic Electricity-1.20.1-1.1.0-1.jar'
+
+[update.modrinth]
+mod-id = 'gYqTAyBw'
+version = 'vISc8d9D'

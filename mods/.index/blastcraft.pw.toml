@@ -1,0 +1,16 @@
+filename = 'Blastcraft-1.20.1-0.4.0-3.jar'
+name = 'Blastcraft'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd91583c65bda5045652838e864d167a479297a29dd7a842491791870a294e7255988206184a98834452887298a33c1d49cd4a1f4c0e7a477f278b853f7c32e49'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qzSqkQKb/versions/IAG1gYPt/Blastcraft-1.20.1-0.4.0-3.jar'
+
+[update.modrinth]
+mod-id = 'qzSqkQKb'
+version = 'IAG1gYPt'

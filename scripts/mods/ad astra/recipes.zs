@@ -1,0 +1,2 @@
+craftingTable.removeByName("ad_astra:etrionic_blast_furnace");
+craftingTable.addShaped("ad_astra.etrionic_blast_furnace", <item:ad_astra:etrionic_blast_furnace>, [[<tag:items:forge:plates/steel>, <tag:items:forge:plates/steel>, <tag:items:forge:plates/steel>], [<item:minecraft:redstone>, <item:minecraft:blast_furnace>, <item:minecraft:redstone>], [<tag:items:forge:plates/steel>, <tag:items:forge:plates/steel>, <tag:items:forge:plates/steel>]]);
