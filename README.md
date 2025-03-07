@@ -7,7 +7,7 @@ Currently there is no way to easily install Dynamix. It is possible to copy and 
 ## Features
 - Automation & Factory Creation
 - Chemistry
-- Oil Rigging
+- Oil Refining
 - Computers
 - ICBM's and Explosives
 - Storage Drawers
