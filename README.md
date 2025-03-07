@@ -18,7 +18,7 @@ Currently there is no way to easily install Dynamix. It is possible to copy and 
 - Force Fields
 
 ## Mod List
-- [AI-Improvements](https://modrinth.com/mod/DSVgwcji)
+- [AI\-Improvements](https://modrinth.com/mod/DSVgwcji)
 - [Ad Astra](https://modrinth.com/mod/3ufwT9JF)
 - [Ad Astra Delight](https://modrinth.com/mod/8gylzbLw)
 - [Almanac](https://modrinth.com/mod/Gi02250Z)
@@ -47,7 +47,7 @@ Currently there is no way to easily install Dynamix. It is possible to copy and 
 - [Create: Love and War](https://modrinth.com/mod/71LJXmxX)
 - [Create: Numismatics](https://modrinth.com/mod/Jdbbtt0i)
 - [Create: Steam 'n' Rails](https://modrinth.com/mod/ZzjhlDgM)
-- Create: The Factory Must Grow
+- [Create: The Factory Must Grow](https://modrinth.com/mod/USgVjXsk)
 - [Cristel Lib](https://modrinth.com/mod/cl223EMc)
 - [Cubes Without Borders](https://modrinth.com/mod/ETlrkaYF)
 - [CullLeaves](https://modrinth.com/mod/GNxdLCoP)
@@ -116,15 +116,15 @@ Currently there is no way to easily install Dynamix. It is possible to copy and 
 - [Searchables](https://modrinth.com/mod/fuuu3xnx)
 - [Starlight](https://modrinth.com/mod/iRfIGC1s)
 - [Storage Drawers](https://modrinth.com/mod/guitPqEi)
-- [Storage Drawers Create compat](https://modrinth.com/datapack/storage-drawers-create-compat)
-- Tectonic
-- [TenshiLib](https://www.curseforge.com/minecraft/mc-mods/tenshilib)
-- [Terralith](https://www.stardustlabs.net/)
-- Towns and Towers
-- [Traveler's Backpack](https://www.curseforge.com/minecraft/mc-mods/travelers-backpack)
-- Xaero's Minimap
-- Xaero's World Map
-- Zeta
+- [Storage Drawers Create compat](https://modrinth.com/mod/c8JYP4m3)
+- [Tectonic](https://modrinth.com/mod/lWDHr9jE)
+- [TenshiLib](https://modrinth.com/mod/P2rffivS)
+- [Terralith](https://modrinth.com/mod/8oi3bsk5)
+- [Towns and Towers](https://modrinth.com/mod/DjLobEOy)
+- [Traveler's Backpack](https://modrinth.com/mod/rlloIFEV)
+- [Xaero's Minimap](https://modrinth.com/mod/1bokaNcj)
+- [Xaero's World Map](https://modrinth.com/mod/NcUtCpym)
+- [Zeta](https://modrinth.com/mod/MVARlG2f)
 - [ccdbridge](https://modrinth.com/mod/7ZVzo8Of)
 - [flib](https://modrinth.com/mod/FAUSd09K)
 - [ftb checker reworked](https://modrinth.com/mod/nkZr5PZv)
