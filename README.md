@@ -126,3 +126,6 @@ Currently there is no way to easily install Dynamix. It is possible to copy and 
 - [ccdbridge](https://modrinth.com/mod/7ZVzo8Of)
 - [flib](https://modrinth.com/mod/FAUSd09K)
 - [ftb checker reworked](https://modrinth.com/mod/nkZr5PZv)
+
+#### Dev Spreadsheet
+[https://docs.google.com/spreadsheets/d/1dS9yU_Cj5GkQxArkL-QEIz2TPV6T6qA9v-abps2bXY4/edit](https://docs.google.com/spreadsheets/d/1dS9yU_Cj5GkQxArkL-QEIz2TPV6T6qA9v-abps2bXY4/edit)
