@@ -1,0 +1,1 @@
+<recipetype:create:mixing>.removeByName("createloveandwar:mixing/steel_ingot");

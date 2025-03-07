@@ -1,2 +1,5 @@
 craftingTable.removeByName("ad_astra:etrionic_blast_furnace");
 craftingTable.addShaped("ad_astra.etrionic_blast_furnace", <item:ad_astra:etrionic_blast_furnace>, [[<tag:items:forge:plates/steel>, <tag:items:forge:plates/steel>, <tag:items:forge:plates/steel>], [<item:minecraft:redstone>, <item:minecraft:blast_furnace>, <item:minecraft:redstone>], [<tag:items:forge:plates/steel>, <tag:items:forge:plates/steel>, <tag:items:forge:plates/steel>]]);
+
+craftingTable.removeByName("ad_astra:compressor");
+craftingTable.addShaped("ad_astra.compressor", <item:ad_astra:compressor>, [[<item:minecraft:iron_ingot>, <item:create:mechanical_press>, <item:minecraft:iron_ingot>], [<item:minecraft:iron_ingot>, <item:minecraft:air>, <item:minecraft:iron_ingot>], [<item:minecraft:iron_ingot>, <item:create:mechanical_press>, <item:minecraft:iron_ingot>]]);
