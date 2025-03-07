@@ -5,7 +5,17 @@ A science and technology modpack about automating items, making machines and com
 Currently there is no way to easily install Dynamix. It is possible to copy and paste the mods, configs and scripts into a minecraft instance.
 
 ## Features
-
+- Automation & Factory Creation
+- Chemistry
+- Oil Refining
+- Computers
+- ICBM's and Explosives
+- Storage Drawers
+- Train Networks
+- Nuclear Energy Generation
+- Space Travel
+- New Biomes & New World Gen
+- Force Fields
 
 ## Mod List
 - [AI\-Improvements](https://modrinth.com/mod/DSVgwcji)
@@ -116,3 +126,6 @@ Currently there is no way to easily install Dynamix. It is possible to copy and 
 - [ccdbridge](https://modrinth.com/mod/7ZVzo8Of)
 - [flib](https://modrinth.com/mod/FAUSd09K)
 - [ftb checker reworked](https://modrinth.com/mod/nkZr5PZv)
+
+#### Dev Spreadsheet
+[https://docs.google.com/spreadsheets/d/1dS9yU_Cj5GkQxArkL-QEIz2TPV6T6qA9v-abps2bXY4/edit](https://docs.google.com/spreadsheets/d/1dS9yU_Cj5GkQxArkL-QEIz2TPV6T6qA9v-abps2bXY4/edit)
