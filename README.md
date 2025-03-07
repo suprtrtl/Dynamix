@@ -18,12 +18,12 @@ Currently there is no way to easily install Dynamix. It is possible to copy and 
 - Force Fields
 
 ## Mod List
+- \.connector
 - [AI\-Improvements](https://modrinth.com/mod/DSVgwcji)
 - [Ad Astra](https://modrinth.com/mod/3ufwT9JF)
 - [Ad Astra Delight](https://modrinth.com/mod/8gylzbLw)
 - [Almanac](https://modrinth.com/mod/Gi02250Z)
 - [AppleSkin](https://modrinth.com/mod/EsAfCjCV)
-- [Applied Energistics 2](https://modrinth.com/mod/XxWD5pD3)
 - [Architectury](https://www.curseforge.com/projects/419699)
 - [Athena](https://modrinth.com/mod/b1ZV3DIJ)
 - [Ballistix](https://modrinth.com/mod/XeEYk41R)
@@ -84,6 +84,7 @@ Currently there is no way to easily install Dynamix. It is possible to copy and 
 - [Immersive Aircraft](https://modrinth.com/mod/x3HZvrj6)
 - [Improved Mobs Mod](https://modrinth.com/mod/23MovWyi)
 - [Jade](https://modrinth.com/mod/nvQzSEkH)
+- [JeiTweaker](https://modrinth.com/mod/EiEOyeoL)
 - [Just Enough Items](https://modrinth.com/mod/u6dRKJwZ)
 - [Kotlin for Forge](https://modrinth.com/mod/ordsPcFz)
 - [Let Me Despawn](https://modrinth.com/mod/vE2FN5qn)
@@ -92,6 +93,8 @@ Currently there is no way to easily install Dynamix. It is possible to copy and 
 - [Macaw's Roofs](https://modrinth.com/mod/B8jaH3P1)
 - [Macaw's Stairs and Balconies](https://modrinth.com/mod/iP3wH1ha)
 - [Macaw's Windows](https://modrinth.com/mod/C7I0BCni)
+- [Mekanism](https://modrinth.com/mod/Ce6I4WUE)
+- [Mekanism: Generators](https://modrinth.com/mod/OFVYKsAk)
 - [Memory Leak Fix](https://modrinth.com/mod/NRjRiSSD)
 - [MidnightLib](https://modrinth.com/mod/codAaoxh)
 - [Model Gap Fix](https://modrinth.com/mod/QdG47OkI)
@@ -111,7 +114,6 @@ Currently there is no way to easily install Dynamix. It is possible to copy and 
 - [Resourcefulconfig](https://modrinth.com/mod/M1953qlQ)
 - [Saturn](https://modrinth.com/mod/2eT495vq)
 - [Searchables](https://modrinth.com/mod/fuuu3xnx)
-- [Simple Storage Network](https://modrinth.com/mod/cVIr8Vz1)
 - [Starlight](https://modrinth.com/mod/iRfIGC1s)
 - [Storage Drawers](https://modrinth.com/mod/guitPqEi)
 - [Storage Drawers Create compat](https://modrinth.com/mod/c8JYP4m3)
