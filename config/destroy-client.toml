@@ -14,10 +14,10 @@ TempramentalItemDescriptions = true
 	#Units of temperature to display by default
 	#[Reload may be required to take full effect]
 	#Allowed Values: KELVINS, DEGREES_CELCIUS, DEGREES_FARENHEIT
-	temperatureUnit = "DEGREES_CELCIUS"
+	temperatureUnit = "KELVINS"
 	#.
 	#Display additional technical details in some tooltips
-	nerdMode = false
+	nerdMode = true
 
 #.
 #The buttons to open Destroy's configurations which appear on the main menu and pause menu
