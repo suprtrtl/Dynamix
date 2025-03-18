@@ -1,0 +1,1052 @@
+{
+  "__comment": [
+    "Mobs will be able to equip items declared here",
+    "The first number is the weight while the second number is the quality",
+    "Weight is the weight of an item. Higher weight means that the item is more likely to get choosen",
+    "Quality is a modifier applied to the weight. The final weight used is weight + quality * current difficulty"
+  ],
+  "MAINHAND": {
+    "ae2:certus_quartz_axe": [
+      112662,
+      0.51635593
+    ],
+    "ae2:certus_quartz_sword": [
+      112749,
+      0.049
+    ],
+    "ae2:fluix_axe": [
+      111798,
+      1.6502495
+    ],
+    "ae2:fluix_sword": [
+      111890,
+      1.531011
+    ],
+    "ae2:nether_quartz_axe": [
+      112662,
+      0.51635593
+    ],
+    "ae2:nether_quartz_sword": [
+      112749,
+      0.049
+    ],
+    "createloveandwar:tungsten_axe": [
+      112254,
+      1.0627478
+    ],
+    "createloveandwar:tungsten_sword": [
+      112312,
+      0.988363
+    ],
+    "electrodynamics:electricbaton": [
+      113238,
+      1.0E-4
+    ],
+    "gtceu:aluminium_axe": [
+      111683,
+      1.7998894
+    ],
+    "gtceu:aluminium_butchery_knife": [
+      111745,
+      1.719132
+    ],
+    "gtceu:aluminium_knife": [
+      111799,
+      1.6489512
+    ],
+    "gtceu:aluminium_sword": [
+      111702,
+      1.7751209
+    ],
+    "gtceu:blue_steel_axe": [
+      111263,
+      2.3518867
+    ],
+    "gtceu:blue_steel_butchery_knife": [
+      111364,
+      2.2183836
+    ],
+    "gtceu:blue_steel_knife": [
+      111409,
+      2.159053
+    ],
+    "gtceu:blue_steel_sword": [
+      111310,
+      2.2897036
+    ],
+    "gtceu:bronze_axe": [
+      112794,
+      0.044499997
+    ],
+    "gtceu:bronze_butchery_knife": [
+      112878,
+      0.036099996
+    ],
+    "gtceu:bronze_knife": [
+      112899,
+      0.033999998
+    ],
+    "gtceu:bronze_sword": [
+      112848,
+      0.0391
+    ],
+    "gtceu:cobalt_brass_axe": [
+      111380,
+      2.1972775
+    ],
+    "gtceu:cobalt_brass_butchery_knife": [
+      111464,
+      2.0866673
+    ],
+    "gtceu:cobalt_brass_knife": [
+      111485,
+      2.0590668
+    ],
+    "gtceu:cobalt_brass_sword": [
+      111434,
+      2.1261325
+    ],
+    "gtceu:damascus_steel_axe": [
+      111310,
+      2.2897036
+    ],
+    "gtceu:damascus_steel_butchery_knife": [
+      111422,
+      2.1419308
+    ],
+    "gtceu:damascus_steel_knife": [
+      111455,
+      2.0985024
+    ],
+    "gtceu:damascus_steel_sword": [
+      111380,
+      2.1972775
+    ],
+    "gtceu:diamond_axe": [
+      111688,
+      1.7933697
+    ],
+    "gtceu:diamond_butchery_knife": [
+      111764,
+      1.6944221
+    ],
+    "gtceu:diamond_knife": [
+      111815,
+      1.6281849
+    ],
+    "gtceu:diamond_sword": [
+      111704,
+      1.7725146
+    ],
+    "gtceu:duranium_axe": [
+      98975,
+      29.425251
+    ],
+    "gtceu:duranium_butchery_knife": [
+      99048,
+      29.26619
+    ],
+    "gtceu:duranium_knife": [
+      99067,
+      29.224794
+    ],
+    "gtceu:duranium_sword": [
+      99021,
+      29.325014
+    ],
+    "gtceu:flint_axe": [
+      113041,
+      0.019799998
+    ],
+    "gtceu:flint_knife": [
+      113126,
+      0.011299999
+    ],
+    "gtceu:flint_sword": [
+      113087,
+      0.015199999
+    ],
+    "gtceu:hsse_axe": [
+      107725,
+      10.685646
+    ],
+    "gtceu:hsse_butchery_knife": [
+      107777,
+      10.576731
+    ],
+    "gtceu:hsse_knife": [
+      107787,
+      10.55579
+    ],
+    "gtceu:hsse_sword": [
+      107759,
+      10.614429
+    ],
+    "gtceu:invar_axe": [
+      112435,
+      0.82990474
+    ],
+    "gtceu:invar_butchery_knife": [
+      112533,
+      0.7012731
+    ],
+    "gtceu:invar_knife": [
+      112560,
+      0.66491455
+    ],
+    "gtceu:invar_sword": [
+      112497,
+      0.7489827
+    ],
+    "gtceu:iron_axe": [
+      112685,
+      0.47611615
+    ],
+    "gtceu:iron_butchery_knife": [
+      112769,
+      0.047
+    ],
+    "gtceu:iron_knife": [
+      112790,
+      0.044899996
+    ],
+    "gtceu:iron_sword": [
+      112739,
+      0.049999997
+    ],
+    "gtceu:naquadah_alloy_axe": [
+      107679,
+      10.782021
+    ],
+    "gtceu:naquadah_alloy_butchery_knife": [
+      107752,
+      10.62909
+    ],
+    "gtceu:naquadah_alloy_knife": [
+      107771,
+      10.589295
+    ],
+    "gtceu:naquadah_alloy_sword": [
+      107725,
+      10.685646
+    ],
+    "gtceu:netherite_axe": [
+      111313,
+      2.285738
+    ],
+    "gtceu:netherite_butchery_knife": [
+      111407,
+      2.161688
+    ],
+    "gtceu:netherite_knife": [
+      111435,
+      2.1248164
+    ],
+    "gtceu:netherite_sword": [
+      111371,
+      2.2091482
+    ],
+    "gtceu:neutronium_axe": [
+      0,
+      258.57043
+    ],
+    "gtceu:neutronium_butchery_knife": [
+      42,
+      258.47025
+    ],
+    "gtceu:neutronium_knife": [
+      60,
+      258.4273
+    ],
+    "gtceu:neutronium_sword": [
+      24,
+      258.51318
+    ],
+    "gtceu:red_steel_axe": [
+      108651,
+      8.750806
+    ],
+    "gtceu:red_steel_butchery_knife": [
+      108752,
+      8.540304
+    ],
+    "gtceu:red_steel_knife": [
+      108797,
+      8.446543
+    ],
+    "gtceu:red_steel_sword": [
+      108698,
+      8.652839
+    ],
+    "gtceu:rose_gold_axe": [
+      111815,
+      1.6281849
+    ],
+    "gtceu:rose_gold_butchery_knife": [
+      111899,
+      1.5193686
+    ],
+    "gtceu:rose_gold_knife": [
+      111920,
+      1.4922183
+    ],
+    "gtceu:rose_gold_sword": [
+      111869,
+      1.5581918
+    ],
+    "gtceu:stainless_steel_axe": [
+      111269,
+      2.3439429
+    ],
+    "gtceu:stainless_steel_butchery_knife": [
+      111395,
+      2.1775014
+    ],
+    "gtceu:stainless_steel_knife": [
+      111434,
+      2.1261325
+    ],
+    "gtceu:stainless_steel_sword": [
+      111347,
+      2.2408218
+    ],
+    "gtceu:steel_axe": [
+      112217,
+      1.1101819
+    ],
+    "gtceu:steel_butchery_knife": [
+      112315,
+      0.98451304
+    ],
+    "gtceu:steel_knife": [
+      112342,
+      0.9498429
+    ],
+    "gtceu:steel_sword": [
+      112279,
+      1.030694
+    ],
+    "gtceu:sterling_silver_axe": [
+      111676,
+      1.8090193
+    ],
+    "gtceu:sterling_silver_butchery_knife": [
+      111725,
+      1.7451619
+    ],
+    "gtceu:sterling_silver_knife": [
+      111782,
+      1.6710293
+    ],
+    "gtceu:sterling_silver_sword": [
+      111698,
+      1.7803338
+    ],
+    "gtceu:titanium_axe": [
+      110392,
+      5.112161
+    ],
+    "gtceu:titanium_butchery_knife": [
+      110493,
+      4.895935
+    ],
+    "gtceu:titanium_knife": [
+      110538,
+      4.798898
+    ],
+    "gtceu:titanium_sword": [
+      110439,
+      5.0117817
+    ],
+    "gtceu:tungsten_carbide_axe": [
+      111380,
+      2.1972775
+    ],
+    "gtceu:tungsten_carbide_butchery_knife": [
+      111464,
+      2.0866673
+    ],
+    "gtceu:tungsten_carbide_knife": [
+      111485,
+      2.0590668
+    ],
+    "gtceu:tungsten_carbide_sword": [
+      111434,
+      2.1261325
+    ],
+    "gtceu:tungsten_steel_axe": [
+      109512,
+      6.957843
+    ],
+    "gtceu:tungsten_steel_butchery_knife": [
+      109588,
+      6.799529
+    ],
+    "gtceu:tungsten_steel_knife": [
+      109639,
+      6.693252
+    ],
+    "gtceu:tungsten_steel_sword": [
+      109528,
+      6.9245186
+    ],
+    "gtceu:ultimet_axe": [
+      109512,
+      6.957843
+    ],
+    "gtceu:ultimet_butchery_knife": [
+      109588,
+      6.799529
+    ],
+    "gtceu:ultimet_knife": [
+      109639,
+      6.693252
+    ],
+    "gtceu:ultimet_sword": [
+      109528,
+      6.9245186
+    ],
+    "gtceu:vanadium_steel_axe": [
+      110476,
+      4.9324703
+    ],
+    "gtceu:vanadium_steel_butchery_knife": [
+      110574,
+      4.7208867
+    ],
+    "gtceu:vanadium_steel_knife": [
+      110601,
+      4.662123
+    ],
+    "gtceu:vanadium_steel_sword": [
+      110538,
+      4.798898
+    ],
+    "gtceu:wrought_iron_axe": [
+      112468,
+      0.78698194
+    ],
+    "gtceu:wrought_iron_butchery_knife": [
+      112552,
+      0.67575234
+    ],
+    "gtceu:wrought_iron_knife": [
+      112573,
+      0.64716274
+    ],
+    "gtceu:wrought_iron_sword": [
+      112522,
+      0.7159294
+    ],
+    "mekanism:electric_bow": [
+      111439,
+      2.1195521
+    ],
+    "minecraft:bow": [
+      110671,
+      4.508568
+    ],
+    "minecraft:crossbow": [
+      110965,
+      3.826627
+    ],
+    "minecraft:diamond_axe": [
+      110434,
+      5.022479
+    ],
+    "minecraft:diamond_sword": [
+      110496,
+      4.889481
+    ],
+    "minecraft:enchanted_book": [
+      111639,
+      1.8573177
+    ],
+    "minecraft:golden_axe": [
+      113095,
+      0.014399999
+    ],
+    "minecraft:golden_sword": [
+      113158,
+      0.0081
+    ],
+    "minecraft:iron_axe": [
+      112662,
+      0.51635593
+    ],
+    "minecraft:iron_sword": [
+      112749,
+      0.049
+    ],
+    "minecraft:lingering_potion{Potion:\"minecraft:harming\"}": [
+      111739,
+      1.7269388
+    ],
+    "minecraft:netherite_axe": [
+      109598,
+      6.778693
+    ],
+    "minecraft:netherite_sword": [
+      109668,
+      6.632802
+    ],
+    "minecraft:snowball": [
+      112689,
+      0.46844563
+    ],
+    "minecraft:splash_potion{Potion:\"minecraft:harming\"}": [
+      111739,
+      1.7269388
+    ],
+    "minecraft:stone_axe": [
+      112865,
+      0.0374
+    ],
+    "minecraft:stone_sword": [
+      112973,
+      0.026599998
+    ],
+    "minecraft:tnt": [
+      111539,
+      1.9881918
+    ],
+    "minecraft:trident": [
+      110739,
+      4.357304
+    ],
+    "minecraft:wooden_axe": [
+      113049,
+      0.019
+    ],
+    "minecraft:wooden_sword": [
+      113112,
+      0.0127
+    ]
+  },
+  "OFFHAND": {
+    "minecraft:ender_pearl": [
+      675,
+      1.2102311
+    ],
+    "minecraft:flint_and_steel": [
+      647,
+      1.2461817
+    ],
+    "minecraft:lava_bucket": [
+      275,
+      1.7269388
+    ],
+    "minecraft:shield": [
+      353,
+      1.6255897
+    ]
+  },
+  "FEET": {
+    "ad_astra:jet_suit_boots": [
+      51285,
+      5.086568
+    ],
+    "ad_astra:netherite_space_boots": [
+      52118,
+      2.3839326
+    ],
+    "ad_astra:space_boots": [
+      52931,
+      1.3245949
+    ],
+    "create:copper_diving_boots": [
+      53546,
+      0.5113901
+    ],
+    "create:netherite_diving_boots": [
+      52485,
+      1.9030677
+    ],
+    "createloveandwar:tungsten_boots": [
+      52049,
+      3.205346
+    ],
+    "destroy:wellington_boots": [
+      54045,
+      0.0075
+    ],
+    "electrodynamics:combatarmorboots": [
+      31680,
+      47.437836
+    ],
+    "electrodynamics:compositearmorboots": [
+      31680,
+      47.437836
+    ],
+    "electrodynamics:hydraulicboots": [
+      54003,
+      0.0117
+    ],
+    "electrodynamics:rubberboots": [
+      18,
+      119.43322
+    ],
+    "gtceu:hazmat_boots": [
+      52959,
+      1.288585
+    ],
+    "gtceu:nanomuscle_boots": [
+      53210,
+      0.9665407
+    ],
+    "gtceu:quarktech_boots": [
+      53210,
+      0.9665407
+    ],
+    "mekanism:free_runners": [
+      53490,
+      0.59678036
+    ],
+    "mekanism:free_runners_armored": [
+      53454,
+      0.64716274
+    ],
+    "mekanism:hazmat_boots": [
+      53490,
+      0.59678036
+    ],
+    "mekanism:mekasuit_boots": [
+      51935,
+      3.5910394
+    ],
+    "minecraft:chainmail_boots": [
+      53528,
+      0.540316
+    ],
+    "minecraft:diamond_boots": [
+      52612,
+      1.7373508
+    ],
+    "minecraft:golden_boots": [
+      53594,
+      0.4136078
+    ],
+    "minecraft:iron_boots": [
+      53280,
+      0.8764657
+    ],
+    "minecraft:leather_boots": [
+      53876,
+      0.0244
+    ],
+    "minecraft:netherite_boots": [
+      52485,
+      1.9030677
+    ],
+    "thermal:beekeeper_boots": [
+      53821,
+      0.0299
+    ],
+    "thermal:diving_boots": [
+      53373,
+      0.7555575
+    ],
+    "thermal:hazmat_boots": [
+      53434,
+      0.67440087
+    ]
+  },
+  "LEGS": {
+    "ad_astra:jet_suit_pants": [
+      19142,
+      5.199434
+    ],
+    "ad_astra:netherite_space_pants": [
+      19968,
+      3.1634672
+    ],
+    "ad_astra:space_pants": [
+      20784,
+      1.397999
+    ],
+    "createloveandwar:tungsten_leggings": [
+      19947,
+      3.2564473
+    ],
+    "destroy:hazmat_leggings": [
+      21952,
+      0.0077999993
+    ],
+    "electrodynamics:combatarmorleggings": [
+      19,
+      46.48425
+    ],
+    "electrodynamics:compositearmorleggings": [
+      19,
+      46.48425
+    ],
+    "electrodynamics:servoleggings": [
+      21920,
+      0.011
+    ],
+    "gtceu:hazmat_leggings": [
+      20869,
+      1.288585
+    ],
+    "gtceu:nanomuscle_leggings": [
+      21120,
+      0.9665407
+    ],
+    "gtceu:quarktech_leggings": [
+      21120,
+      0.9665407
+    ],
+    "mekanism:hazmat_pants": [
+      21400,
+      0.59678036
+    ],
+    "mekanism:mekasuit_pants": [
+      19845,
+      3.5910394
+    ],
+    "minecraft:chainmail_leggings": [
+      21438,
+      0.540316
+    ],
+    "minecraft:diamond_leggings": [
+      20522,
+      1.7373508
+    ],
+    "minecraft:golden_leggings": [
+      21504,
+      0.4136078
+    ],
+    "minecraft:iron_leggings": [
+      21190,
+      0.8764657
+    ],
+    "minecraft:leather_leggings": [
+      21786,
+      0.0244
+    ],
+    "minecraft:netherite_leggings": [
+      20395,
+      1.9030677
+    ],
+    "thermal:beekeeper_leggings": [
+      21725,
+      0.030499998
+    ],
+    "thermal:diving_leggings": [
+      21265,
+      0.7791448
+    ],
+    "thermal:hazmat_leggings": [
+      21335,
+      0.6865328
+    ]
+  },
+  "CHEST": {
+    "ad_astra:jet_suit": [
+      19005,
+      5.120687
+    ],
+    "ad_astra:netherite_space_suit": [
+      19830,
+      2.9321702
+    ],
+    "ad_astra:space_suit": [
+      20644,
+      1.3541976
+    ],
+    "create:copper_backtank": [
+      21282,
+      0.5113901
+    ],
+    "create:netherite_backtank": [
+      20221,
+      1.9030677
+    ],
+    "createloveandwar:tungsten_chestplate": [
+      19785,
+      3.205346
+    ],
+    "destroy:hazmat_suit": [
+      21779,
+      0.0076999995
+    ],
+    "electrodynamics:combatarmorchestplate": [
+      19,
+      46.097717
+    ],
+    "electrodynamics:compositearmorchestplate": [
+      19,
+      46.097717
+    ],
+    "electrodynamics:jetpack": [
+      21749,
+      0.0106999995
+    ],
+    "gtceu:advanced_electric_jetpack": [
+      21001,
+      0.89580816
+    ],
+    "gtceu:advanced_quarktech_chestplate": [
+      20946,
+      0.9665407
+    ],
+    "gtceu:avanced_nanomuscle_chestplate": [
+      20946,
+      0.9665407
+    ],
+    "gtceu:electric_jetpack": [
+      21001,
+      0.89580816
+    ],
+    "gtceu:hazmat_chestpiece": [
+      20695,
+      1.288585
+    ],
+    "gtceu:liquid_fuel_jetpack": [
+      21001,
+      0.89580816
+    ],
+    "gtceu:nanomuscle_chestplate": [
+      20946,
+      0.9665407
+    ],
+    "gtceu:quarktech_chestplate": [
+      20946,
+      0.9665407
+    ],
+    "gtceu:rubber_gloves": [
+      21412,
+      0.0444
+    ],
+    "mekanism:hazmat_gown": [
+      21226,
+      0.59678036
+    ],
+    "mekanism:jetpack": [
+      21226,
+      0.59678036
+    ],
+    "mekanism:jetpack_armored": [
+      20992,
+      0.9074007
+    ],
+    "mekanism:mekasuit_bodyarmor": [
+      19671,
+      3.5910394
+    ],
+    "mekanism:scuba_tank": [
+      21226,
+      0.59678036
+    ],
+    "minecraft:chainmail_chestplate": [
+      21264,
+      0.540316
+    ],
+    "minecraft:diamond_chestplate": [
+      20348,
+      1.7373508
+    ],
+    "minecraft:golden_chestplate": [
+      21330,
+      0.4136078
+    ],
+    "minecraft:iron_chestplate": [
+      21016,
+      0.8764657
+    ],
+    "minecraft:leather_chestplate": [
+      21612,
+      0.0244
+    ],
+    "minecraft:netherite_chestplate": [
+      20221,
+      1.9030677
+    ],
+    "thermal:beekeeper_chestplate": [
+      21554,
+      0.030199999
+    ],
+    "thermal:diving_chestplate": [
+      21102,
+      0.7647448
+    ],
+    "thermal:hazmat_chestplate": [
+      21166,
+      0.67980134
+    ]
+  },
+  "HEAD": {
+    "ad_astra:jet_suit_helmet": [
+      20126,
+      5.2949486
+    ],
+    "ad_astra:netherite_space_helmet": [
+      20966,
+      3.2958906
+    ],
+    "ad_astra:space_helmet": [
+      21783,
+      1.4366896
+    ],
+    "create:copper_diving_helmet": [
+      22485,
+      0.5113901
+    ],
+    "create:netherite_diving_helmet": [
+      21424,
+      1.9030677
+    ],
+    "createloveandwar:tungsten_helmet": [
+      20988,
+      3.205346
+    ],
+    "electrodynamics:combatarmorhelmet": [
+      31,
+      48.746174
+    ],
+    "electrodynamics:compositearmorhelmet": [
+      31,
+      48.746174
+    ],
+    "electrodynamics:nightvisiongoggles": [
+      22932,
+      0.0127
+    ],
+    "gtceu:face_mask": [
+      22595,
+      0.0464
+    ],
+    "gtceu:hazmat_headpiece": [
+      21898,
+      1.288585
+    ],
+    "gtceu:nanomuscle_helmet": [
+      22149,
+      0.9665407
+    ],
+    "gtceu:nightvision_goggles": [
+      22204,
+      0.89580816
+    ],
+    "gtceu:quarktech_helmet": [
+      22149,
+      0.9665407
+    ],
+    "mekanism:hazmat_mask": [
+      22429,
+      0.59678036
+    ],
+    "mekanism:mekasuit_helmet": [
+      20874,
+      3.5910394
+    ],
+    "mekanism:scuba_mask": [
+      22429,
+      0.59678036
+    ],
+    "minecraft:chainmail_helmet": [
+      22467,
+      0.540316
+    ],
+    "minecraft:diamond_helmet": [
+      21551,
+      1.7373508
+    ],
+    "minecraft:golden_helmet": [
+      22533,
+      0.4136078
+    ],
+    "minecraft:iron_helmet": [
+      22219,
+      0.8764657
+    ],
+    "minecraft:leather_helmet": [
+      22815,
+      0.0244
+    ],
+    "minecraft:netherite_helmet": [
+      21424,
+      1.9030677
+    ],
+    "minecraft:turtle_helmet": [
+      22163,
+      0.948558
+    ],
+    "railways:black_conductor_cap": [
+      22429,
+      0.59678036
+    ],
+    "railways:blue_conductor_cap": [
+      22429,
+      0.59678036
+    ],
+    "railways:brown_conductor_cap": [
+      22429,
+      0.59678036
+    ],
+    "railways:cyan_conductor_cap": [
+      22429,
+      0.59678036
+    ],
+    "railways:gray_conductor_cap": [
+      22429,
+      0.59678036
+    ],
+    "railways:green_conductor_cap": [
+      22429,
+      0.59678036
+    ],
+    "railways:light_blue_conductor_cap": [
+      22429,
+      0.59678036
+    ],
+    "railways:light_gray_conductor_cap": [
+      22429,
+      0.59678036
+    ],
+    "railways:lime_conductor_cap": [
+      22429,
+      0.59678036
+    ],
+    "railways:magenta_conductor_cap": [
+      22429,
+      0.59678036
+    ],
+    "railways:orange_conductor_cap": [
+      22429,
+      0.59678036
+    ],
+    "railways:pink_conductor_cap": [
+      22429,
+      0.59678036
+    ],
+    "railways:purple_conductor_cap": [
+      22429,
+      0.59678036
+    ],
+    "railways:red_conductor_cap": [
+      22429,
+      0.59678036
+    ],
+    "railways:white_conductor_cap": [
+      22429,
+      0.59678036
+    ],
+    "railways:yellow_conductor_cap": [
+      22429,
+      0.59678036
+    ],
+    "thermal:beekeeper_helmet": [
+      22750,
+      0.030899998
+    ],
+    "thermal:diving_helmet": [
+      22284,
+      0.79220045
+    ],
+    "thermal:hazmat_helmet": [
+      22359,
+      0.6932441
+    ]
+  }
+}

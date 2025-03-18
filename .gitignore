@@ -1,7 +1,17 @@
 **/coremods
+**/crash-reports
+**/defaultconfigs
+**/ldlib
+**/local
+**/logs
 **/mods
 **/resourcepacks
 **/saves
 **/screenshots
 **/shaderpacks
+**server-resource-packs
 **/texturepacks
+**/xaero
+icon.png
+options.txt
+patchouli_data.json
