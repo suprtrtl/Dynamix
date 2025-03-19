@@ -1,0 +1,94 @@
+{
+  "favorites": [],
+  "lookup_history": [
+    "item:electrodynamics:dustmolybdenum",
+    "item:gtceu:monazite_dust",
+    "item:electrodynamics:deepslateoremonazite",
+    "item:electrodynamics:oremonazite",
+    "item:gtceu:lithium_dust",
+    "item:gtceu:vanadium_dust",
+    "#item:forge:dusts/vanadium",
+    "item:gtceu:hot_vanadium_ingot",
+    "item:gtceu:vanadium_ingot",
+    "item:gtceu:thorium_ingot",
+    {
+      "type": "item",
+      "id": "electrodynamics:oxidechromite",
+      "amount": 3
+    },
+    "item:electrodynamics:raworechromium",
+    "item:gtceu:chromium_dust",
+    "item:gtceu:chromium_ring",
+    "item:destroy:chromium_powder",
+    "#item:forge:dusts/chromium",
+    "item:gtceu:chromium_ingot",
+    "item:mekanism:dust_fluorite",
+    "item:destroy:fluorite",
+    "item:gtceu:aluminium_dust",
+    "item:gtceu:aluminium_ingot",
+    "item:electrodynamics:ingotaluminum",
+    "item:gtceu:raw_cinnabar",
+    "item:thermal:rubberwood_log",
+    "item:thermal:rubberwood_wood",
+    "item:gtceu:lead_ingot",
+    "item:thermal:lead_ingot",
+    "#item:forge:raw_materials/fluorite",
+    "item:gtceu:uranium_dust",
+    "#item:forge:dusts/uranium",
+    "item:gtceu:uranium_ingot",
+    "item:mekanism:dust_uranium",
+    "item:gtceu:osmium_screw",
+    {
+      "type": "item",
+      "id": "gtceu:osmium_bolt",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "id": "gtceu:osmium_rod",
+      "amount": 2
+    },
+    "item:gtceu:long_osmium_rod",
+    "item:gtceu:osmium_ingot",
+    {
+      "type": "jemi",
+      "uid": "slurry:mekanism:clean_osmium"
+    },
+    {
+      "type": "jemi",
+      "uid": "gas:mekanism:osmium",
+      "amount": 200
+    },
+    "item:gtceu:hot_osmium_ingot",
+    "item:gtceu:hot_hsss_ingot",
+    "item:gtceu:hsss_ingot",
+    {
+      "type": "item",
+      "id": "gtceu:hsss_dust",
+      "amount": 9
+    },
+    "item:gtceu:osmium_dust",
+    "#item:forge:dusts/osmium",
+    {
+      "type": "item",
+      "id": "gtceu:naquadah_alloy_dust",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "id": "gtceu:osmiridium_dust",
+      "amount": 4
+    },
+    "#item:forge:ingots/titanium",
+    "item:electrodynamics:platetitanium",
+    "item:electrodynamics:platevanadiumsteel"
+  ],
+  "craft_history": [],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}
