@@ -10,11 +10,13 @@
 **/shaderpacks
 **server-resource-packs
 **/texturepacks
+**/trees
 **/xaero
 XaeroWaypoints*
 emi.json
 icon.png
 options.txt
 patchouli_data.json
+rhino.local.properties
 usercache.json
 usernamecache.json
