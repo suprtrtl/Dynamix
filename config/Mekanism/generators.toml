@@ -112,7 +112,7 @@
 		#Amount of energy created (in heat) from each whole mB of fission fuel.
 		energyPerFissionFuel = "1310720"
 		#The heat capacity added to a Fission Reactor by a single casing block. Increase to require more energy to raise the reactor temperature.
-		#Range: 1.0 ~ 1310720.0
+		#Range: 1.0 ~ 1000000.0
 		casingHeatCapacity = 1000.0
 		#The average surface area of a Fission Reactor's fuel assemblies to reach 100% boil efficiency. Higher values make it harder to cool the reactor.
 		#Range: 1.0 ~ 1.7976931348623157E308
@@ -126,7 +126,7 @@
 		#Range: 0.0 ~ 1.0
 		meltdownChance = 0.001
 		#How much radioactivity of fuel/waste contents are multiplied during a meltdown.
-		#Range: 0.1 ~ 1310720.0
+		#Range: 0.1 ~ 1000000.0
 		meltdownRadiationMultiplier = 50.0
 		#Damage to reset the reactor to after a meltdown.
 		#Range: 0.0 ~ 100.0
@@ -135,7 +135,7 @@
 		#Range: 0.001 ~ 1.0
 		defaultBurnRate = 0.1
 		#The burn rate increase each fuel assembly provides. Max Burn Rate = fuelAssemblies * burnPerAssembly
-		#Range: 1 ~ 1310720
+		#Range: 1 ~ 1000000
 		burnPerAssembly = 1
 		#Amount of fuel (mB) that each assembly contributes to the fuel and waste capacity. Max = fuelAssemblies * maxFuelPerAssembly
 		#Range: 1 ~ 2251799813685247

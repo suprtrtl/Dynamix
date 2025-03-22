@@ -12,6 +12,11 @@
   "ae2:server_data": null,
   "balm:jade": null,
   "corpse:corpse": null,
+  "dynamictrees:branch": null,
+  "dynamictrees:fruit": null,
+  "dynamictrees:pod": null,
+  "dynamictrees:rooty": null,
+  "dynamictrees:rooty_water": null,
   "gtceu:auto_output_info": null,
   "gtceu:cable_info": null,
   "gtceu:controllable_provider": null,
@@ -84,5 +89,6 @@
   "minecraft:villager_profession": null,
   "minecraft:waxed": null,
   "minecraft:zombie_villager": null,
-  "petrolpark:contamination": null
+  "petrolpark:contamination": null,
+  "treechop:plugin": null
 }
