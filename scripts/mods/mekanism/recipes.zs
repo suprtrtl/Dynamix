@@ -1,0 +1,2 @@
+craftingTable.removeByName("mekanism:steel_casing");
+craftingTable.addShaped("mekanism:steel_casing", <item:mekanism:steel_casing>, [[<tag:items:forge:ingots/steel>, <tag:items:forge:ingots/osmium>, <tag:items:forge:ingots/steel>], [<tag:items:forge:ingots/osmium>, <item:gtceu:lv_machine_hull>, <tag:items:forge:ingots/osmium>], [<tag:items:forge:ingots/steel>, <tag:items:forge:ingots/osmium>, <tag:items:forge:ingots/steel>]]);

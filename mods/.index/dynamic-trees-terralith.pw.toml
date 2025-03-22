@@ -1,0 +1,16 @@
+filename = 'DynamicTreesTerralith-1.20.1-1.2.4.jar'
+name = 'Dynamic Trees - Terralith'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1eba0fcbafe7a05c7404d5177d3970eb59984442649b0cbcfbed637351ce9f518a0155f258367cffb388481e31abd82b4d9f667905db7005a7154b8ed5ac48c2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/o8eM9Cnp/versions/j0qAbNXN/DynamicTreesTerralith-1.20.1-1.2.4.jar'
+
+[update.modrinth]
+mod-id = 'o8eM9Cnp'
+version = 'j0qAbNXN'
