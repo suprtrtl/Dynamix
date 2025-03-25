@@ -1,1 +1,0 @@
-hide(<item:ad_astra:steel_rod>);

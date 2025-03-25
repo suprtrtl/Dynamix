@@ -1,3 +1,6 @@
+**/.index
+**/.probe
+**/.vscode
 **/coremods
 **/crash-reports
 **/gtceu
@@ -15,8 +18,10 @@
 XaeroWaypoints*
 emi.json
 icon.png
+jsconfig.json
 options.txt
 patchouli_data.json
+probe-settings.json
 rhino.local.properties
 usercache.json
 usernamecache.json
